@@ -25,9 +25,9 @@ should work, I advise some materials below
 
 | What                           | Source                                                                   |
 | -------------------------------| -------------------------------------------------------------------------|
-| Methodology                    | [https://leankit.com/learn/kanban/what-is-kanban][PlDb]                  |
-| How to plan                    | [https://www.youtube.com/watch?v=je5Ds1z-we8][PlGh]                      |
-| Example of the near realizatiom| [https://alexatnet.com/model-view-controller-mvc-in-javascript_ru/][PlGd]|
+| Methodology                    | [https://leankit.com/learn/kanban/what-is-kanban]                        |
+| How to plan                    | [https://www.youtube.com/watch?v=je5Ds1z-we8]                            |
+| Example of the near realizatiom| [https://alexatnet.com/model-view-controller-mvc-in-javascript_ru/]      |
 
 ### Via
 
